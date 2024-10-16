@@ -1,0 +1,5 @@
+for loop = "Een for-loop is een soort herhaling die door een reeks van dingen gaat, zoals een lijst of een groep getallen, en voor elk ding een actie uitvoert.",
+while loop = "Een while-loop blijft iets herhalen zolang een bepaalde voorwaarde waar is. De loop stopt zodra de voorwaarde niet meer klopt.",
+len() = "De len()-functie geeft het aantal elementen in een lijst, string of andere verzamelingen terug.",
+tuple = "Een tuple is een lijst die je niet kunt veranderen nadat je hem hebt gemaakt. Je kunt de dingen erin niet toevoegen, verwijderen of aanpassen.",
+list = "Een lijst is een verzameling van dingen die je kunt aanpassen. Je kunt dingen toevoegen, verwijderen of veranderen in de lijst."
